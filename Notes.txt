@@ -1,0 +1,5 @@
+Day 1 Log 07-11-2022
+
+HTML, CSS and Script files created.
+In Script all classes created for game logic.
+Learned constructors, need to go through css and canvas commands.
